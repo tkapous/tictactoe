@@ -1,0 +1,104 @@
+[
+  {
+    "file": "src/check_win.c",
+    "arguments": [
+      "/usr/bin/clang",
+      "-c",
+      "-Wall",
+      "-Wextra",
+      "-g",
+      "-I",
+      "inc/",
+      "src/check_win.c",
+      "-o",
+      "obj/check_win.o"
+    ],
+    "directory": "/home/trx/work/tictactoe",
+    "output": "obj/check_win.o"
+  },
+  {
+    "file": "src/draw.c",
+    "arguments": [
+      "/usr/bin/clang",
+      "-c",
+      "-Wall",
+      "-Wextra",
+      "-g",
+      "-I",
+      "inc/",
+      "src/draw.c",
+      "-o",
+      "obj/draw.o"
+    ],
+    "directory": "/home/trx/work/tictactoe",
+    "output": "obj/draw.o"
+  },
+  {
+    "file": "src/tictactoe.c",
+    "arguments": [
+      "/usr/bin/clang",
+      "-c",
+      "-Wall",
+      "-Wextra",
+      "-g",
+      "-I",
+      "inc/",
+      "src/tictactoe.c",
+      "-o",
+      "obj/tictactoe.o"
+    ],
+    "directory": "/home/trx/work/tictactoe",
+    "output": "obj/tictactoe.o"
+  },
+  {
+    "file": "src/turn_cpu.c",
+    "arguments": [
+      "/usr/bin/clang",
+      "-c",
+      "-Wall",
+      "-Wextra",
+      "-g",
+      "-I",
+      "inc/",
+      "src/turn_cpu.c",
+      "-o",
+      "obj/turn_cpu.o"
+    ],
+    "directory": "/home/trx/work/tictactoe",
+    "output": "obj/turn_cpu.o"
+  },
+  {
+    "file": "src/turn_user.c",
+    "arguments": [
+      "/usr/bin/clang",
+      "-c",
+      "-Wall",
+      "-Wextra",
+      "-g",
+      "-I",
+      "inc/",
+      "src/turn_user.c",
+      "-o",
+      "obj/turn_user.o"
+    ],
+    "directory": "/home/trx/work/tictactoe",
+    "output": "obj/turn_user.o"
+  },
+  {
+    "file": "src/utils.c",
+    "arguments": [
+      "/usr/bin/clang",
+      "-c",
+      "-Wall",
+      "-Wextra",
+      "-g",
+      "-I",
+      "inc/",
+      "src/utils.c",
+      "-o",
+      "obj/utils.o"
+    ],
+    "directory": "/home/trx/work/tictactoe",
+    "output": "obj/utils.o"
+  }
+]
